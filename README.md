@@ -3,6 +3,8 @@
 # ResNet-18 Transfer Learning with PyTorch
 
 This project demonstrates transfer learning using a pre-trained ResNet-18 model to classify images from the Microsoft Cats vs. Dogs dataset. The project uses PyTorch for model training and validation and TensorBoard for visualization.
+![image](https://github.com/user-attachments/assets/28af9a0d-eb28-4212-af1c-60bace776ef4)
+
 
 ## Project Overview
 This project applies transfer learning by fine-tuning a ResNet-18 model on a custom dataset (Cats vs. Dogs). The model is trained using PyTorch, and various metrics like accuracy, precision, recall, and F1-score are calculated. TensorBoard is used to visualize the training process, including losses, accuracy, and the confusion matrix.
@@ -42,4 +44,6 @@ The model's performance is evaluated on the validation set after each epoch. Key
 - Confusion Matrix
 
 These metrics are printed to the console and logged to TensorBoard.
-
+## Team Members
+- Zainab Tarek
+- Ahmad Gadalla
